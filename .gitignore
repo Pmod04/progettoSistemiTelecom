@@ -1,1 +1,3 @@
-venv/*
+*
+!laser.ipynb
+!requirements.txt
